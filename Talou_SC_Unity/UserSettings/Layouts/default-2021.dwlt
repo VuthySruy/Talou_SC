@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 371}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 503, y: 321}
   m_MaxSize: {x: 16192, y: 12117}
   vertical: 0
-  controlID: 47
+  controlID: 26
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 321}
   m_MaxSize: {x: 8096, y: 12117}
   vertical: 1
-  controlID: 48
+  controlID: 27
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 49
+  controlID: 28
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\_Unity\Talou_SC\Talou_SC_Unity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 439}
-    m_SelectedIDs: 5e5f0000
-    m_LastClickedID: 24414
-    m_ExpandedIDs: 000000005c5f0000286e0000686e0000be6e0000ce6e0000166f0000266f0000e46f0000ea6f000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 1ca50000
+    m_LastClickedID: 42268
+    m_ExpandedIDs: 000000001ca5000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -488,9 +488,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: de96ffffba97ffff849fffff3cabffff46abffffeab8ffff28ceffff2eceffff18d7ffff94ddffff32fbffff
+      m_SelectedIDs: be76ffff
+      m_LastClickedID: -35138
+      m_ExpandedIDs: 1e6effffdea5ffff2eb6ffff32b6ffff7eb6ffffa6b6ffffb6b6ffffb8b6ffff0cb8ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -772,9 +772,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.27781445, y: 2.5861063, z: -1.089901}
+    m_Target: {x: -0.01961847, y: 1.8132906, z: 0.84108746}
     speed: 2
-    m_Value: {x: 0.27781445, y: 2.5861063, z: -1.089901}
+    m_Value: {x: -0.01961847, y: 1.8132906, z: 0.84108746}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -821,13 +821,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.060268622, y: 0.012287534, z: -0.0007425095, w: 0.9981032}
+    m_Target: {x: 0.00021819834, y: -0.9997786, z: 0.015306974, w: 0.0141032385}
     speed: 2
-    m_Value: {x: 0.06026881, y: 0.012287572, z: -0.0007425118, w: 0.9981063}
+    m_Value: {x: 0.00019523856, y: -0.99980336, z: 0.015307356, w: 0.0126036145}
   m_Size:
-    m_Target: 2.1431355
+    m_Target: 0.54345304
     speed: 2
-    m_Value: 2.1431355
+    m_Value: 0.54345304
   m_Ortho:
     m_Target: 0
     speed: 2
